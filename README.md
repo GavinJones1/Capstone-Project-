@@ -127,4 +127,4 @@ Excel for results, z-score calculations, and weighted scoring
 Techniques: classification, feature selection (MRMR, ANOVA, Chi-Square, Kruskal-Wallis), cross-validation, z-score standardization
 Contact
 
-Gavin Jones | M.S. Business Analytics candidate, Kent State University | NCAA Division I Baseball LinkedIn | Gavjones1230@gmail.com
+Gavin Jones | M.S. Business Analytics candidate, Kent State University | NCAA Division I Baseball | Gavjones1230@gmail.com
